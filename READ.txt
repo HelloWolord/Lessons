@@ -1,0 +1,1 @@
+Hey if you're reading this, this is my HTML lessons to look at them just drag the file into the web browser (click on the chrome icon) and it should show up and have what ever is typed there the first lesson should be named "lesson1.html" alternitively you can double click on the file you want to look at.
